@@ -13,10 +13,14 @@
 
 #author{
     color: orange;
-    margin-right: 0%;
+    margin-left: 0%;
 }
 
 .image-credit{
     font-size: smaller;
     margin-top: 0%;
+}
+
+.article-metadata{
+    font-style: italic;
 }
