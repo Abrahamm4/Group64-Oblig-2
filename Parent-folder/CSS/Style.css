@@ -7,10 +7,6 @@
     text-align: center;
 }
 
-.Subheading{
-
-}
-
 #author{
     color: orange;
     margin-left: 0%;
@@ -26,5 +22,9 @@
 }
 
 .email{
+    color: blue;
+}
+
+button:hover{
     color: blue;
 }
