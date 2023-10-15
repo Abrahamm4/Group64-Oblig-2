@@ -18,6 +18,10 @@ body {
     margin-left: 0%;
     font-weight: bold;
 }
+.article-image{
+    width: 62%;
+    height: auto;
+}
 
 .image-credit{
     font-size: smaller;
