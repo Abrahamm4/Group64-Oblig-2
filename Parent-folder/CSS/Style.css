@@ -10,11 +10,13 @@
 #author{
     color: orange;
     margin-left: 0%;
+    font-weight: bold;
 }
 
 .image-credit{
     font-size: smaller;
     margin-top: 0%;
+    color: #777;
 }
 
 .article-metadata{
@@ -25,6 +27,22 @@
     color: blue;
 }
 
-button:hover{
-    color: blue;
-}
+button {
+    background-color: #fff;
+    color: #3c4043;
+    border-radius: 24px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #F6F9FE;
+    color: orange;
+  }
+  
+  button:focus {
+    outline: none;
+    border: 2px solid orange;
+  }
