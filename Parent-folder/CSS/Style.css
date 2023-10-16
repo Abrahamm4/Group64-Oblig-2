@@ -37,7 +37,7 @@ article {
 }
 
 .email{
-    color: blue;
+    color: #C62415;
 }
 
 button {
@@ -52,7 +52,7 @@ button {
   
   button:hover {
     background-color: #F6F9FE;
-    color: orange;
+    color: #C62415;
   }
   
   button:focus {
